@@ -11,4 +11,4 @@ Pre-requisites:
 
 Usage :
 
-python MPL.py <http address>
+python MPL.py http address
